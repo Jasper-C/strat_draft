@@ -1,0 +1,7 @@
+In hitters, when created include data for hitting results
+
+in players, add pitchers to mirror hitters
+
+In players, add double duty to mirror hitters and pitchers
+
+In hitters, pitchers, double_duty add in a calculate base stats
